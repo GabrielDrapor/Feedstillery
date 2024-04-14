@@ -1,2 +1,2 @@
 # Feedstillery
-Distill periodically and pure feeds from fragment
+Distill pure feeds from fragment
